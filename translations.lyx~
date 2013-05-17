@@ -1,0 +1,302 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\renewcommand{\arraystretch}{1.5}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman palatino
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 93
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 2
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Qu nian yuan ye shi ...
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Lan
+\series default
+te aifa
+\series bold
+kō
+\series default
+ranaroka, 
+\begin_inset Newline newline
+\end_inset
+
+ma
+\series bold
+ri
+\series default
+me u
+\series bold
+ri
+\series default
+pa 
+\series bold
+hes
+\series default
+sita.
+ 
+\begin_inset Newline newline
+\end_inset
+
+A
+\series bold
+se
+\series default
+la ti
+\series bold
+lon
+\series default
+ a
+\series bold
+rin
+\series default
+ a
+\series bold
+ki
+\series default
+nita,
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Ke
+\series default
+lin nen 
+\series bold
+tē
+\series default
+ritoi 
+\series bold
+has
+\series default
+sinaroka.
+ 
+\end_layout
+
+\begin_layout Quote
+Ka aif
+\series bold
+ko
+\series default
+ranar ben 
+\series bold
+lan
+\series default
+dess,
+\begin_inset Newline newline
+\end_inset
+
+u
+\series bold
+ri
+\series default
+pe ben ma
+\series bold
+ri
+\series default
+mess 
+\series bold
+hes
+\series default
+te.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+A
+\series default
+sil ti
+\series bold
+lokh
+\series default
+ a
+\series bold
+rikh
+\series default
+ a
+\series bold
+gin
+\series default
+te,
+\begin_inset Newline newline
+\end_inset
+
+sin 
+\series bold
+ge
+\series default
+lessau 
+\series bold
+tai
+\series default
+retau ka nar ben hac.
+\end_layout
+
+\begin_layout Standard
+Na-aifa
+\series bold
+kō
+\series default
+ranaroka kai, 
+\begin_inset Newline newline
+\end_inset
+
+A
+\series bold
+se
+\series default
+la 
+\series bold
+hes
+\series default
+si numa
+\series bold
+vin
+\series default
+-da.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Lan
+\series default
+te aifa
+\series bold
+kō
+\series default
+rame 
+\series bold
+ki
+\series default
+tan,
+\begin_inset Newline newline
+\end_inset
+
+tathe
+\series bold
+mā
+\series default
+na na
+\series bold
+vin
+\series default
+ na-
+\series bold
+kō
+\series default
+ra.
+\end_layout
+
+\begin_layout Quote
+Kai ka na-aif
+\series bold
+ko
+\series default
+ranar
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+A
+\series default
+sil hess ta numa
+\series bold
+vin
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Gi
+\series default
+tan ben aif
+\series bold
+ko
+\series default
+ra ben 
+\series bold
+lan
+\series default
+dess
+\begin_inset Newline newline
+\end_inset
+
+man tass naf ne-
+\series bold
+ko
+\series default
+ra.
+\end_layout
+
+\end_body
+\end_document

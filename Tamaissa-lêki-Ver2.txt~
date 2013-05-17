@@ -1,0 +1,78 @@
+VERBS:
+
+-an-: perfect
+-ath-: progressive
+
+-it-: past
+-in-: future
+
+-is-: causative
+-ond-: passive
+-ald-: reflexive
+-ild-: second reflexive (each other)
+-ek-: volitional
+-asr-: potential
+
+-emān: negative
+
+-i: substantive > OUT
+-e: attributive > OUT
+
+-a: third person, action
+-o: first person, action
+-u: second person, action
+-ku: imperative
+
+-i: plural
+-ki: substantive (for indirection)
+
+"Ti, ize temāni, tē melemmipa." - To be, or not to be, that is the question.
+
+NOUNS:
+
+Regular 1 declension (-V):
+  NOM: --	-la
+  GEN: -me	-lame
+  DAT: -n	-lan
+  ACC: -s	-las
+  PPS: --	-la
+
+First irregular declension (-im):
+  NOM: -im	-ir
+  GEN: -ime	-imire
+  DAT: -in	-inai
+  ACC: -is	-isai
+  PPS: -i	-ire
+
+Second irregular declension (-an):
+  NOM: -an	-en
+  GEN: -am(e)	-em(e)
+  DAT: -avin	-evin
+  ACC: -as	-es
+  PPS: -a	-e
+  
+"Sekloslovakitalassondisemānuiva?" - Are you (pl.) unable to be made to turn into Czechoslovakians?
+
+Note that there are a few verb enclitics that are attached to PPS:
+
+X-p-: to be X
+X-lass-: to become X
+
+
+STRESS:
+
+There are three syllable lengths: short, long, and overlong.
+
+Short syllables are all usual (C)V(C) syllables where V is short.
+Long syllables are syllables with a diphthong, or a liquid or nasal coda other than R or a coda that is the same as the initial of the next vowel.
+Overlong syllables has V long.
+
+Short syllables have 1 mora, and both long and overlong syllables have 2 morae. The distinction between long and overlong is only for assigning stress.
+
+If a word is a non-verbal noun and contains only short syllables, the stress falls on the second-last syllable or the last syllable of the root, whichever is *further* from the end of the word.
+
+If a word is a verb and contains only short syllables, the stress falls on the *third-last* syllable or the last syllable of the root, whichever is *closer* to the end of the word. 
+
+Always stress the last overlong syllable in a word if it exists. If it is more than four syllables away from the end, then give it *secondary stress* and put the primary stress according to the remaining rules.
+
+If a word contains a long syllable no further than three syllables away from the end, unconditionally stress it and not anything else. Otherwise pretend it is short and put the stress according to the remaining rules.

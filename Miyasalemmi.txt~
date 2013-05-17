@@ -1,0 +1,61 @@
+VERBS:
+
+-an-: perfect
+-ath-: progressive
+
+-it-: past
+-in-: future
+
+-is-: causative
+-ond-: passive
+-ek-: volitional
+-asr-: potential
+
+-emán: negative
+
+-(a): (drop when not needed phonologically, or when none of the above ) intransitive or unknown/out-of-scope object transitive
+-a: transitive, singular object
+-ai: transitive, plural object
+-assa: reflexive (object is subject)
+
+
+-ká: imperative
+
+-i: plural
+-ki: substantive
+-e: 
+
+"Ti, ize temáni, telsi melemmitha." - To be, or not to be, that is the question.
+
+NOUNS:
+
+Declension:
+  NOM: --	-hi
+  GEN: -me	-hime
+  DAT: -n	-hin
+  ACC: -s	-his
+  PPS: --	-hi
+
+Note that there are a few verb enclitics that are attached to PPS:
+
+X-p-: to be X
+X-lass-: to become X
+
+
+STRESS:
+
+There are three syllable lengths: short, long, and overlong.
+
+Short syllables are all usual (C)V(C) syllables where V is short.
+Long syllables are syllables with a diphthong, or a liquid or nasal coda other than R or a coda that is the same as the initial of the next vowel.
+Overlong syllables has V long.
+
+Short syllables have 1 mora, and both long and overlong syllables have 2 morae. The distinction between long and overlong is only for assigning stress.
+
+If a word is a non-verbal noun and contains only short syllables, the stress falls on the second-last syllable or the last syllable of the root, whichever is *further* from the end of the word.
+
+If a word is a verb and contains only short syllables, the stress falls on the *third-last* syllable or the last syllable of the root, whichever is *closer* to the end of the word. 
+
+Always stress the last overlong syllable in a word if it exists. If it is more than four syllables away from the end, then give it *secondary stress* and put the primary stress according to the remaining rules.
+
+If a word contains a long syllable no further than three syllables away from the end, unconditionally stress it and not anything else. Otherwise pretend it is short and put the stress according to the remaining rules.
