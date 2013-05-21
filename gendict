@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Querying dictionary..."
+echo "(ddict mys) (exit)" | racket main.scm | tail -n +2 | head -n -1 > mys-to-eng.txt
+echo "(ddict eng) (exit)" | racket main.scm | tail -n +2 | head -n -1 > eng-to-mys.txt
+echo "HUMAN-READABLE DICTIONARIES GENERATED!"

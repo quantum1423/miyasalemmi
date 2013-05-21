@@ -1,5 +1,5 @@
 #lang racket
-(require "dstructs.scm")
+(define-struct word (eng mys dml cls ety))
 (require "io.scm")
 
 (define dict (map (lambda (x)
@@ -11,6 +11,7 @@
 (define ccomm #f)
 
 (define (dispdict ctr fltr)
+  (newline)
   (define intv 30)
   (display "[ID]\t")
   (pprint "ENGLISH" intv)
@@ -28,7 +29,7 @@
                 (display (word-cls wrd))
                 (newline))
               (set! ctr (add1 ctr)))
-            dict))
+            dict) (newline))
 
 (define (sublist? a b) ;is a a sublist of b?
   (cond
