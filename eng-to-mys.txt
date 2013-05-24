@@ -1,4 +1,4 @@
-[ID]	ENGLISH                       TAMAISSAN                     CLASS                         
+[ID]	ENGLISH                       MIYASAN                       CLASS                         
 
 0	<polite form>                 ... tuda                      verbal clitic
 1	Alan                          Alána                         name
@@ -58,183 +58,200 @@
 55	amount                        íarni                         noun
 56	and (sì)                      a                             particle
 57	and (ulte)                    esti                          conjunction
-58	back into                     -náren                        postposition
-59	because of                    -tema                         postposition
-60	beginning                     naro                          noun
-61	beloved person                kulikita                      noun
-62	beneath                       -lda                          postposition
-63	beverage                      tyewa                         noun
-64	beyond                        -lasso                        postposition
-65	block/brick                   tolla                         noun
-66	building                      télana                        noun
-67	but                           kai                           conjunction
-68	by means of                   -vara                         postposition
-69	cold                          pinta                         verb
-70	computer                      kínanu                        noun
-71	computer network              ithisadéri                    noun
-72	day                           ethikóra                      noun
-73	dream                         ímana                         noun
-74	during (a krr)                -ka                           postposition
-75	dusk                          hassinaro                     noun
-76	east                          irdahe                        noun
-77	edge                          táye                          noun
-78	entirety                      tenna                         noun
-79	even though ...               ... sikeri                    clausal postposition
-80	family                        familya                       noun (loan)
-81	female person                 ardikita                      noun
-82	fish                          parmanu                       noun
-83	flower                        marimo                        noun
-84	force                         kyaeri                        noun
-85	from                          -zin                          postposition
-86	fun                           kezesenéri                    noun
-87	gold                          eirimo                        noun
-88	ground                        linta                         noun
-89	hall, auditorium              isída                         noun
-90	head                          thána                         noun
-91	hot                           gozırna                       verb
-92	how                           meya                          inta
-93	if ...                        ... rena                      clausal postposition
-94	kinisimi                      animal                        noun
-95	leaf                          kesalima                      noun
-96	leave                         kesala                        verb
-97	like                          -len                          postposition
-98	male person                   ordikita                      noun
-99	marimo                        taská                         noun
-100	nari                          narya                         clausal postposition
-101	night                         hassi                         noun
-102	north                         muna                          noun
-103	or                            ize                           particle
-104	otherwise                     semarya                       adverb
-105	person                        kita                          noun
-106	place                         pata                          noun
-107	plain                         myéra                         noun
-108	please ...                    ... tuddá                     verbal clitic
-109	rain                          ambe                          noun
-110	river                         tilba                         noun
-111	rock                          kata                          noun
-112	router                        ithisa                        noun
-113	sky                           minda                         noun
-114	so (many, big)                naya                          adverb
-115	solar system                  atála                         noun
-116	south                         nazaha                        noun
-117	star                          síle                          noun
-118	still                         nán                           adverb
-119	storm                         temlano                       noun
-120	structure                     tandá                         noun
-121	sun                           aifa                          noun
-122	that                          tel-                          affix
-123	the past                      numan                         noun
-124	thing                         simi                          noun
-125	this                          min-                          affix
-126	through                       -karam                        postposition
-127	time                          kári                          noun
-128	to advertise                  arekinlemma                   verb
-129	to agree                      lemmidéra                     verb
-130	to be                         -la                           clitic
-131	to be as if ...               ...-lena                      verbifyer
-132	to be awesome                 sattera                       verb
-133	to be beautiful               talyata                       verb
-134	to be blue                    ityola                        verb
-135	to be brave                   kuzarána                      verb
-136	to be bright                  hessa                         verb
-137	to be correct                 miresa                        verb
-138	to be deep                    asáta                         verb
-139	to be different               sinaka                        verb
-140	to be evil                    vunda                         verb
-141	to be excessively blah        -sóla                         i- verb clitic
-142	to be famous                  kitasenérida                  verb
-143	to be far away                areka                         verb
-144	to be female                  ardina                        verb
-145	to be flat                    sasaya                        verb
-146	to be free                    samma                         verb
-147	to be general                 marda                         verb
-148	to be gentle                  wena                          verb
-149	to be good                    keza                          verb
-150	to be great                   zarelda                       verb
-151	to be happy                   tefta                         verb
-152	to be hard                    kızıra                        v
-153	to be hard                    kızıra                        verb
-154	to be heavy                   moyarna                       verb
-155	to be holy                    sankta                        verb (loan)
-156	to be large                   pelva                         verb
-157	to be last                    lanta                         verb
-158	to be long                    nitera                        verb
-159	to be male                    ordina                        verb
-160	to be many                    íarna                         verb
-161	to be near                    mintha                        verb
-162	to be new                     atara                         verb
-163	to be old                     uturna                        verb
-164	to be ordered                 melema                        verb
-165	to be other                   kıssa                         verb
-166	to be peaceful                harna                         verb
-167	to be red                     takara                        verb
-168	to be round                   myamyara                      verb
-169	to be sad                     níla                          verb
-170	to be small                   mikima                        verb
-171	to be strong                  kyara                         verb
-172	to be sweet                   awena                         verb
-173	to be thick                   dúrka                         verb
-174	to be tired                   aerda                         verb
-175	to be together                déra                          verb
-176	to be united                  issa                          verb
-177	to be wet                     nalimakira                    verb
-178	to become                     -lassa                        clitic
-179	to bring                      iraka                         verb
-180	to build                      takora                        verb
-181	to come                       minkina                       verb
-182	to correct                    miresisa                      verb
-183	to create                     naraka                        verb
-184	to end                        usilda                        verb
-185	to fall                       zahídra                       verb
-186	to feel                       néra                          verb
-187	to fight                      kaza                          verb
-188	to find                       minetaka                      verb
-189	to fly                        halma                         verb
-190	to frighten                   hurira                        verb
-191	to give                       katta                         verb
-192	to go                         telkina                       verb
-193	to greet                      hayána                        verb
-194	to have                       -kira                         enclitic
-195	to hope                       neldira                       verb
-196	to learn, study               lirana                        verb
-197	to live                       haera                         verb
-198	to love (fpo)                 kula                          verb
-199	to marry (intransitive)       karenda                       verb
-200	to meet again                 mildéra                       verb
-201	to move                       kina                          verb
-202	to pass (time)                asa                           verb
-203	to promise                    haslemma                      verb
-204	to push                       kyaera                        verb
-205	to put                        kurka                         verb
-206	to reach                      yunta                         verb
-207	to read                       tassa                         verb
-208	to recall                     milsenéra                     verb
-209	to see                        taka                          verb
-210	to sell                       ura                           verb
-211	to send                       atira                         verb
-212	to sleep                      mimara                        verb
-213	to smell                      kisva                         verb
-214	to split                      kazda                         verb
-215	to take                       sarena                        verb
-216	to talk                       lemma                         verb
-217	to taste                      lakra                         verb
-218	to think about                senéra                        verb
-219	to throw                      katta                         verb
-220	to travel                     tarina                        verb
-221	to tremble                    lilira                        verb
-222	too                           -lí                           postposition
-223	top                           ari                           noun
-224	towards                       -ta                           postposition
-225	tree                          tilara                        noun
-226	very                          tona                          verbal postposition
-227	wall                          tyuna                         noun
-228	water                         nalima                        noun
-229	wave                          wari                          noun
-230	west                          lafahe                        noun
-231	what                          mesimi                        intp
-232	wide/fat                      kıhtara                       verb
-233	wing                          mahtan                        noun
-234	word                          lemmisi                       noun
-235	world                         aise                          noun
-236	year                          aifakóra                      noun
+58	apple                         arı                           noun
+59	back into                     -náren                        postposition
+60	because of                    -tema                         postposition
+61	beginning                     naro                          noun
+62	beloved person                kulikita                      noun
+63	beneath                       -lda                          postposition
+64	beverage                      tyewa                         noun
+65	beyond                        -lasso                        postposition
+66	black                         hessisaka                     noun
+67	black                         hessisaka                     noun
+68	block/brick                   tolla                         noun
+69	building                      télana                        noun
+70	but                           kai                           conjunction
+71	by means of                   -vara                         postposition
+72	cold                          pinta                         verb
+73	color                         saka                          noun
+74	computer                      kínanu                        noun
+75	computer network              ithisadéri                    noun
+76	day                           ethikóra                      noun
+77	dream                         ímana                         noun
+78	during (a krr)                -ka                           postposition
+79	dusk                          hassinaro                     noun
+80	east                          irdahe                        noun
+81	edge                          táye                          noun
+82	entirety                      tenna                         noun
+83	even though ...               ... sikeri                    clausal postposition
+84	family                        familya                       noun (loan)
+85	female person                 ardikita                      noun
+86	fish                          parmanu                       noun
+87	flower                        marimo                        noun
+88	force                         kyaeri                        noun
+89	from                          -zin                          postposition
+90	fun                           kezesenéri                    noun
+91	gold                          eirimo                        noun
+92	ground                        linta                         noun
+93	hall, auditorium              isída                         noun
+94	head                          thána                         noun
+95	hot                           gozırna                       verb
+96	how                           meya                          inta
+97	if ...                        ... rena                      clausal postposition
+98	kinisimi                      animal                        noun
+99	leaf                          kesalima                      noun
+100	leave                         kesala                        verb
+101	lightt                        kessi                         noun
+102	like                          -len                          postposition
+103	male person                   ordikita                      noun
+104	marimo                        taská                         noun
+105	nari                          narya                         clausal postposition
+106	night                         hassi                         noun
+107	north                         muna                          noun
+108	or                            ize                           particle
+109	otherwise                     semarya                       adverb
+110	person                        kita                          noun
+111	place                         pata                          noun
+112	plain                         myéra                         noun
+113	please ...                    ... tuddá                     verbal clitic
+114	rain                          ambe                          noun
+115	river                         tilba                         noun
+116	rock                          kata                          noun
+117	router                        ithisa                        noun
+118	sky                           minda                         noun
+119	so (many, big)                naya                          adverb
+120	solar system                  atála                         noun
+121	south                         nazaha                        noun
+122	star                          síle                          noun
+123	still                         nán                           adverb
+124	storm                         temlano                       noun
+125	structure                     tandá                         noun
+126	sun                           aifa                          noun
+127	that                          tel-                          affix
+128	the past                      numan                         noun
+129	thing                         simi                          noun
+130	this                          min-                          affix
+131	through                       -karam                        postposition
+132	time                          kári                          noun
+133	to advertise                  arekinlemma                   verb
+134	to agree                      lemmidéra                     verb
+135	to be                         -la                           clitic
+136	to be as if ...               ...-lena                      verbifyer
+137	to be awesome                 sattera                       verb
+138	to be beautiful               talyata                       verb
+139	to be blue                    ityola                        verb
+140	to be brave                   kuzarána                      verb
+141	to be bright                  hessa                         verb
+142	to be clean                   adhuska                       verb
+143	to be correct                 mahtakira                     verb
+144	to be correct                 miresa                        verb
+145	to be deep                    asáta                         verb
+146	to be different               sinaka                        verb
+147	to be dirty                   adhuskemána                   verb
+148	to be empty                   heakira                       verb
+149	to be evil                    vunda                         verb
+150	to be excessively blah        -sóla                         i- verb clitic
+151	to be famous                  kitasenérida                  verb
+152	to be far away                areka                         verb
+153	to be fast                    hyatta                        verb
+154	to be female                  ardina                        verb
+155	to be flat                    sasaya                        verb
+156	to be free                    samma                         verb
+157	to be full                    yarnikira                     verb
+158	to be general                 marda                         verb
+159	to be gentle                  wena                          verb
+160	to be good                    keza                          verb
+161	to be great                   zarelda                       verb
+162	to be happy                   tefta                         verb
+163	to be hard                    kızıra                        verb
+164	to be heavy                   moyarna                       verb
+165	to be high                    mindanla                      verb
+166	to be holy                    sankta                        verb (loan)
+167	to be large                   pelva                         verb
+168	to be last                    lanta                         verb
+169	to be long                    nitera                        verb
+170	to be low                     lintanla                      verb
+171	to be male                    ordina                        verb
+172	to be many                    íarna                         verb
+173	to be near                    mintha                        verb
+174	to be new                     atara                         verb
+175	to be old                     uturna                        verb
+176	to be ordered                 melema                        verb
+177	to be other                   kıssa                         verb
+178	to be peaceful                harna                         verb
+179	to be red                     arısaka                       noun
+180	to be red                     takara                        verb
+181	to be round                   myamyara                      verb
+182	to be sad                     níla                          verb
+183	to be slow                    gımma                         verb
+184	to be small                   mikima                        verb
+185	to be straight                indhura                       verb
+186	to be strong                  kyara                         verb
+187	to be sweet                   awena                         verb
+188	to be thick                   dúrka                         verb
+189	to be tired                   aerda                         verb
+190	to be together                déra                          verb
+191	to be united                  issa                          verb
+192	to be wet                     nalimakira                    verb
+193	to be wrong                   mahtakiremána                 verb
+194	to become                     -lassa                        clitic
+195	to bring                      iraka                         verb
+196	to build                      takora                        verb
+197	to come                       minkina                       verb
+198	to correct                    miresisa                      verb
+199	to create                     naraka                        verb
+200	to end                        usilda                        verb
+201	to fall                       zahídra                       verb
+202	to feel                       néra                          verb
+203	to fight                      kaza                          verb
+204	to find                       minetaka                      verb
+205	to fly                        halma                         verb
+206	to frighten                   hurira                        verb
+207	to give                       katta                         verb
+208	to go                         telkina                       verb
+209	to greet                      hayána                        verb
+210	to have                       -kira                         enclitic
+211	to hope                       neldira                       verb
+212	to learn, study               lirana                        verb
+213	to live                       haera                         verb
+214	to love (fpo)                 kula                          verb
+215	to marry (intransitive)       karenda                       verb
+216	to meet again                 mildéra                       verb
+217	to move                       kina                          verb
+218	to pass (time)                asa                           verb
+219	to promise                    haslemma                      verb
+220	to push                       kyaera                        verb
+221	to put                        kurka                         verb
+222	to reach                      yunta                         verb
+223	to read                       tassa                         verb
+224	to recall                     milsenéra                     verb
+225	to see                        taka                          verb
+226	to sell                       ura                           verb
+227	to send                       atira                         verb
+228	to sleep                      mimara                        verb
+229	to smell                      kisva                         verb
+230	to split                      kazda                         verb
+231	to take                       sarena                        verb
+232	to talk                       lemma                         verb
+233	to taste                      lakra                         verb
+234	to think about                senéra                        verb
+235	to throw                      katta                         verb
+236	to travel                     tarina                        verb
+237	to tremble                    lilira                        verb
+238	too                           -lí                           postposition
+239	top                           ari                           noun
+240	towards                       -ta                           postposition
+241	tree                          tilara                        noun
+242	truth                         mahta                         noun
+243	very                          tona                          verbal postposition
+244	wall                          tyuna                         noun
+245	water                         nalima                        noun
+246	wave                          wari                          noun
+247	west                          lafahe                        noun
+248	what                          mesimi                        intp
+249	wide/fat                      kıhtara                       verb
+250	wing                          mahtan                        noun
+251	word                          lemmisi                       noun
+252	world                         aise                          noun
+253	year                          aifakóra                      noun
 

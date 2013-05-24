@@ -15,7 +15,7 @@
   (define intv 30)
   (display "[ID]\t")
   (pprint "ENGLISH" intv)
-  (pprint "TAMAISSAN" intv)
+  (pprint "MIYASAN" intv)
   ;(pprint "DÜMLYAGHZHIC" intv)
   (pprint "CLASS" intv)
   ;(pprint "ETYMOLOGY" intv)
