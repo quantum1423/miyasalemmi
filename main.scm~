@@ -12,7 +12,7 @@
 
 (define (dispdict ctr fltr)
   (newline)
-  (define intv 50)
+  (define intv 30)
   (display "[ID]\t")
   (pprint "ENGLISH" intv)
   (pprint "MIYASAN" intv)
@@ -57,9 +57,6 @@
   ;(display "Etymology: ")
   ;(define ety (read-line))
   (word eng tms dml cls ""))
-
-(define (dump-mys)
-  (for-each (λ(x) (printf "~a\n" (word-mys x))) dict))
 
 (define (sync)
   (sleep 1)
@@ -123,8 +120,6 @@
                                                        (substring? q b)
                                                        (substring? q c))])))
          (set! dict backup))]
-      (`(dump)
-       (dump-mys))
       [`(exit) (exit)]
       [x (display "Malformed query: ") (displayln x)]
       
